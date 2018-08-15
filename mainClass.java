@@ -47,7 +47,7 @@ public class mainClass {
         wThread.start();
 
         // enable bluetooth communication
-        com = new BluetoothCom();
+        // com = new BluetoothCom();
     }
 
     public static void main(String[] args) {
