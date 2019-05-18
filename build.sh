@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # compile
-nxjc mainClass.java blinde.java window.java BLINDESTATE.java BluetoothCom.java 
+nxjc mainClass.java blinde.java window.java BLINDESTATE.java
 
 # move the .class files to the folder with the package name
 mkdir nxtblindes

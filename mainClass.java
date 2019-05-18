@@ -2,7 +2,7 @@ package nxtblindes;
 
 import nxtblindes.blinde;
 import nxtblindes.window;
-import nxtblindes.BluetoothCom;
+// import nxtblindes.BluetoothCom;
 import lejos.nxt.Button;
 import lejos.nxt.Motor;
 import lejos.nxt.SensorPort;
@@ -16,7 +16,7 @@ public class mainClass {
     private static window w;
     private static Thread wThread;
 
-    private static BluetoothCom com;
+    // private static BluetoothCom com;
 
     /** The angle to move the blindes 100% down */
     private static final int maxAngle = 3600;
