@@ -1,0 +1,4 @@
+[submodule "HAP-Java"]
+	path = HAP-Java
+	url = https://github.com/hap-java/HAP-Java
+	branch = master
